@@ -22,6 +22,8 @@ section {
 }
 #stripes {
 	background:url("Assets/stripes.png") repeat-x;
+	height:13px;
+	width:100%;
 	position:absolute;
 	left:0;
 	top:0;
