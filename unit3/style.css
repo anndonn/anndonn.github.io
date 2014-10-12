@@ -12,9 +12,17 @@ hr {
 	width: 40px;
 	margin-right: 80px;
 	margin-left: 8px;
-	color:#FF006;
-	border: 1px #FF006 solid;
+	border: 1px #FF0066 solid;
 }
 a {
 	padding: 10px
+}
+section {
+	margin: 20% 0 0 0;
+}
+#stripes {
+	background:url("Assets/stripes.png") repeat-x;
+	position:absolute;
+	left:0;
+	top:0;
 }
