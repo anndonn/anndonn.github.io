@@ -1,0 +1,20 @@
+body { 
+	background-color: gray;
+	color:white;
+	font-family:helvetica;
+	font-weight: thin;
+	 background:url("assets/background.jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 padding: 100px;
+}
+hr {
+	width: 40px;
+	margin-right: 80px;
+	margin-left: 8px;
+	color:#FF006;
+	border: 1px #FF006 solid;
+}
+a {
+	padding: 10px
+}
