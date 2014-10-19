@@ -1,0 +1,26 @@
+#logo {
+display: inline-block;
+float: inherit;
+ position: relative;
+    top: 80px;
+    right: 40px;
+}
+h1 {text-align: center;
+	font-family: 'Abril Fatface', serif;
+	font-style: normal; 
+	font-size: 40px;
+	margin-top: 110px;
+	margin-bottom: -20px;
+}
+body {
+	background-image: url("acornphotos/IMG_1411.JPG");
+	background-color: white;
+	background-size: center; 
+	background-repeat: no-repeat;
+	background-position: center; 
+	font-family: 'Josefin Slab', serif;
+	font-style: italic;
+	font-size: 18px;
+	text-align: center;
+	text-decoration: overline; 
+}
