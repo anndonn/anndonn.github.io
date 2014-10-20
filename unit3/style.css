@@ -1,7 +1,9 @@
+* { margin:0; padding:0; border-box:box-sizing; }
+
 body { 
-	background-color: gray;
+	background-color: #525a6a;
 	color:white;
-	font-family:helvetica;
+	font-family:helvetica, sans-serif;
 	font-weight: thin;
 	 background:url("Assets/background.jpg");
 	 background-repeat: no-repeat;
@@ -10,8 +12,7 @@ body {
 }
 hr {
 	width: 40px;
-	margin-right: 80px;
-	margin-left: 8px;
+	/*margin-left: 8px; */
 	border: 1px #FF0066 solid;
 }
 a {
