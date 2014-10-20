@@ -5,7 +5,7 @@ body {
 	color:white;
 	font-family:helvetica, sans-serif;
 	font-weight: thin;
-	font-size:16px;
+	font-size:20px;
 	 background:url("Assets/background.jpg");
 	 background-repeat: no-repeat;
 	 background-size: cover;
@@ -15,15 +15,16 @@ hr {
 	width: 40px;
 	/*margin-left: 8px; */
 	border: 1px #FF0066 solid;
-	margin:5px 0 5px 0;
+	margin:5px 0 10px 0;
 }
-p { margin:5px 0 5px 0; }
+p { margin:10px 0 10px 0; }
 a {
 	padding: 10px
 }
 section {
 	margin: 20% 0 0 0;
 }
+img { margin:10px 0 0 0; }
 #stripes {
 	background:url("Assets/stripes.png") repeat-x;
 	height:13px;
