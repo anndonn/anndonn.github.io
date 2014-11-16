@@ -1,0 +1,47 @@
+
+body {
+  font-family: 'Old Standard TT', serif;
+  font-color: #006400;
+  text-align: center;
+
+}
+nav {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+}
+nav a {
+  text-align: center;
+text-decoration: none;
+  color: black;
+    margin: 30px;
+  display: inline-block;
+}
+
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-family: serif;
+  font-size: 26px;
+  padding: 13px 0;
+  color: #006400;
+  border-bottom-color: #006400;
+}
+
+
+footer {
+  text-align: center;
+  border-top: 1px solid black;
+  padding: 18px 0;
+  margin-top: 40px;
+  clear: both;
+}
+
+#intro {
+  font-size: 20px;
+  text-align: center;
+  display: inline-block;
+  color: #006400;
+}
